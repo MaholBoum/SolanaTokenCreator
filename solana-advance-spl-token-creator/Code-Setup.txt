@@ -1,0 +1,25 @@
+### SETUP VIDEO
+
+Kindly watch the setup video of the final source code that what exactly you have got and how you have to de the setup and excuate the code
+
+# Overview Video 
+- URL: https://youtu.be/6H57q_e7kT8?si=4cuW26SDOUHqHuxh
+
+# SETUP VIDEO:
+- URL: Under recording: should send a email for checking the status of setup video recording, Once it will record the video , you will get it
+- theblockchaincoders@gmail.com
+
+
+
+## SUPPORT TEAM
+
+If you have any question and need any support, please contact here inn the give email for any details
+
+- EMAILID: theblockchaincoders@gmail.com 
+
+# For helping you better with the error you are gaceing knidly provide more details about the error which your are facing, likes
+
+- Screenshots
+- Video
+
+- In the email explain the error and setup and where you testing the contract and what are the change you have down in the project
